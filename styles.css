@@ -160,7 +160,6 @@ hr {
 	min-height: 20px;
 	background-repeat: no-repeat;
 	background-size: 20px 20px;
-	padding: 0 auto;
 	margin: 0 auto;
     font-size: 1.5em;
 	list-style: none;
@@ -213,7 +212,7 @@ hr {
 ************  MEDIA QUERIES  *********
 ************    768          *********
 ************                 *********
-**************************************    /*This works at my office but not at home.*/
+***************************************This works at my office but not at home.
 **************************************/
 
 @media (min-width: 768px) {
